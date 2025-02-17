@@ -13,4 +13,4 @@ This repository is intended for source code of Sprint 9 project.
 
 ### Repository structure
 Inside `src` next folders exist:
-- `/src/scripts` - spark job to read data from Kafka and persist it in Postgres. Also screenshots with implementation results
+- `/src/scripts` - spark job to read data from Kafka and persist it in Postgres.
