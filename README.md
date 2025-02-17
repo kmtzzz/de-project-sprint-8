@@ -1,4 +1,4 @@
-# Final project
+# Spint 8 project
 
 ### Description
 This repository is intended for source code of Sprint 9 project.  
